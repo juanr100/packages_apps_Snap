@@ -88,4 +88,5 @@
     <color name="dialog_hr">#C4C4C4</color>
 
     <color name="toast_text">@color/white</color>
+    <color name="ic_launcher_background">#4285f4</color>
 </resources>
